@@ -52,8 +52,8 @@ export default function ExpertiseSection() {
                 <div className="flex-1">
                   <blockquote className="text-center md:text-left">
                     <p className="text-lg text-dark leading-relaxed mb-6 italic">
-                      "복잡한 국가연구개발 법령으로 어려움을 겪는 연구자들을 위해<br />
-                      법률사무소 화음이 최선을 다해 도와드리겠습니다."
+                      &ldquo;복잡한 국가연구개발 법령으로 어려움을 겪는 연구자들을 위해<br />
+                      법률사무소 화음이 최선을 다해 도와드리겠습니다.&rdquo;
                     </p>
                     <footer className="text-right">
                       <Badge variant="secondary" className="text-base px-6 py-3 bg-accent text-white font-semibold">
