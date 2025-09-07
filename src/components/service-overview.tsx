@@ -34,7 +34,7 @@ const services = [
 
 export default function ServiceOverview() {
   return (
-    <section className="py-16 bg-gradient-to-br from-light via-white to-light/80">
+    <section id="services" className="py-16 bg-gradient-to-br from-light via-white to-light/80">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {services.map((service, index) => {

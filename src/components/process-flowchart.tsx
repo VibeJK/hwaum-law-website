@@ -49,7 +49,7 @@ const bottomSteps = [
 
 export default function ProcessFlowchart() {
   return (
-    <section className="py-16 bg-gradient-to-br from-gray-50 to-white">
+    <section id="process" className="py-16 bg-gradient-to-br from-gray-50 to-white">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="mb-10 text-center">

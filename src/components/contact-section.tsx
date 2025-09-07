@@ -4,7 +4,7 @@ import { Phone, Mail, MessageCircle, Clock, MapPin, AlertCircle } from "lucide-r
 
 export default function ContactSection() {
   return (
-    <section className="py-16 bg-gradient-to-br from-emerald-50 to-teal-50">
+    <section id="contact" className="py-16 bg-gradient-to-br from-emerald-50 to-teal-50">
       <div className="container mx-auto px-4">
         <div className="max-w-5xl mx-auto">
           <div className="mb-10 text-center">

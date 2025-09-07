@@ -26,7 +26,7 @@ const penaltyTypes = [
 
 export default function PenaltyTypes() {
   return (
-    <section className="py-16 bg-gradient-to-br from-blue-50 to-indigo-50">
+    <section id="penalty-types" className="py-16 bg-gradient-to-br from-blue-50 to-indigo-50">
       <div className="container mx-auto px-4">
         <div className="max-w-5xl mx-auto">
           <div className="mb-10 text-center">

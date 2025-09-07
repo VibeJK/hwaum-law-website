@@ -12,7 +12,7 @@ const expertiseItems = [
 
 export default function ExpertiseSection() {
   return (
-    <section className="py-16 bg-gradient-to-br from-white to-slate-50">
+    <section id="expertise" className="py-16 bg-gradient-to-br from-white to-slate-50">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           <div className="mb-8 text-center">
