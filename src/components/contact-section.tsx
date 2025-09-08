@@ -28,7 +28,7 @@ export default function ContactSection() {
                   <div className="w-8 h-8 bg-primary/10 rounded-full flex items-center justify-center">
                     <Phone className="w-5 h-5 text-primary" />
                   </div>
-                  <span className="text-xl font-bold text-dark">02-522-0413</span>
+                  <span className="text-xl font-bold text-dark">1577-6421</span>
                 </div>
                 
                 <div className="flex items-center space-x-3">
