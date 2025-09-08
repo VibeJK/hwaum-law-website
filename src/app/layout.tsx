@@ -14,10 +14,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "화음 법무법인 | 국가연구개발사업 제재처분 분쟁 전담센터",
-    template: "%s | 화음 법무법인"
+    default: "화음 법률사무소 | 국가연구개발사업 제재처분 분쟁 전담센터",
+    template: "%s | 화음 법률사무소"
   },
-  description: "국가연구개발사업 제재처분 분쟁 전문 법무법인 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다. 이의신청, 소송대리, 집행정지까지 원스톱 서비스 제공.",
+  description: "국가연구개발사업 제재처분 분쟁 전문 법률사무소 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다. 이의신청, 소송대리, 집행정지까지 원스톱 서비스 제공.",
   icons: {
     icon: [
       { url: '/favicon.svg', type: 'image/svg+xml' },
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     "국가연구개발사업",
     "제재처분",
     "분쟁",
-    "법무법인",
+    "법률사무소",
     "화음",
     "이의신청",
     "소송대리",
@@ -44,9 +44,9 @@ export const metadata: Metadata = {
     "제재부가금",
     "정재권변호사"
   ],
-  authors: [{ name: "법무법인 화음" }],
-  creator: "법무법인 화음",
-  publisher: "법무법인 화음",
+  authors: [{ name: "법률사무소 화음" }],
+  creator: "법률사무소 화음",
+  publisher: "법률사무소 화음",
   robots: {
     index: true,
     follow: true,
@@ -62,22 +62,22 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'ko_KR',
     url: 'https://hwaum-law-website.vercel.app',
-    siteName: '화음 법무법인',
-    title: '화음 법무법인 | 국가연구개발사업 제재처분 분쟁 전담센터',
-    description: '국가연구개발사업 제재처분 분쟁 전문 법무법인 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다.',
+    siteName: '화음 법률사무소',
+    title: '화음 법률사무소 | 국가연구개발사업 제재처분 분쟁 전담센터',
+    description: '국가연구개발사업 제재처분 분쟁 전문 법률사무소 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다.',
     images: [
       {
         url: 'https://hwaum-law-website.vercel.app/og-image.jpg',
         width: 1200,
         height: 1200,
-        alt: '화음 법무법인 - 국가연구개발사업 제재처분 분쟁 전담센터',
+        alt: '화음 법률사무소 - 국가연구개발사업 제재처분 분쟁 전담센터',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: '화음 법무법인 | 국가연구개발사업 제재처분 분쟁 전담센터',
-    description: '국가연구개발사업 제재처분 분쟁 전문 법무법인 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다.',
+    title: '화음 법률사무소 | 국가연구개발사업 제재처분 분쟁 전담센터',
+    description: '국가연구개발사업 제재처분 분쟁 전문 법률사무소 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다.',
     images: ['https://hwaum-law-website.vercel.app/og-image.jpg'],
   },
   verification: {

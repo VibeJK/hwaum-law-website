@@ -2,13 +2,13 @@ export default function StructuredData() {
   const organizationData = {
     "@context": "https://schema.org",
     "@type": "LegalService",
-    "name": "법무법인 화음",
-    "alternateName": "화음 법무법인",
-    "description": "국가연구개발사업 제재처분 분쟁 전문 법무법인. 10년 이상 경험의 전문 변호사가 연구자의 권익을 보호합니다.",
+    "name": "법률사무소 화음",
+    "alternateName": "화음 법률사무소",
+    "description": "국가연구개발사업 제재처분 분쟁 전문 법률사무소. 10년 이상 경험의 전문 변호사가 연구자의 권익을 보호합니다.",
     "url": "https://hwaum-law-website.vercel.app",
     "logo": "https://hwaum-law-website.vercel.app/lawyer-profile.jpg",
     "image": "https://hwaum-law-website.vercel.app/og-image.jpg",
-    "telephone": "+82-2-522-0413",
+    "telephone": "+82-1577-6421",
     "email": "jk.jung@hwaumlaw.com",
     "address": {
       "@type": "PostalAddress",
@@ -51,7 +51,7 @@ export default function StructuredData() {
       "jobTitle": "대표변호사",
       "worksFor": {
         "@type": "LegalService",
-        "name": "법무법인 화음"
+        "name": "법률사무소 화음"
       }
     },
     "employee": [
@@ -124,7 +124,7 @@ export default function StructuredData() {
           "@type": "Person",
           "name": "연구자 A"
         },
-        "reviewBody": "국가연구개발사업 제재처분으로 어려움을 겪고 있을 때 화음 법무법인의 도움을 받았습니다. 전문적이고 신속한 대응으로 문제를 해결할 수 있었습니다."
+        "reviewBody": "국가연구개발사업 제재처분으로 어려움을 겪고 있을 때 화음 법률사무소의 도움을 받았습니다. 전문적이고 신속한 대응으로 문제를 해결할 수 있었습니다."
       }
     ],
     "sameAs": [
@@ -135,8 +135,8 @@ export default function StructuredData() {
   const webPageData = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "화음 법무법인 | 국가연구개발사업 제재처분 분쟁 전담센터",
-    "description": "국가연구개발사업 제재처분 분쟁 전문 법무법인 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다.",
+    "name": "화음 법률사무소 | 국가연구개발사업 제재처분 분쟁 전담센터",
+    "description": "국가연구개발사업 제재처분 분쟁 전문 법률사무소 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다.",
     "url": "https://hwaum-law-website.vercel.app",
     "mainEntity": organizationData,
     "breadcrumb": {
