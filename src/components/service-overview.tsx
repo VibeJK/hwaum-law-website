@@ -6,28 +6,28 @@ const services = [
     icon: FileSearch,
     title: "사전검토",
     subtitle: "특별평가 단계",
-    description: "전문 컨설팅",
+    description: "제재처분으로 넘어가지 않도록 의견서 제출 및 전문 컨설팅",
     color: "bg-primary"
   },
   {
     icon: Scale,
     title: "이의신청",
-    subtitle: "재검토 요청",
-    description: "전문 대응",
+    subtitle: "재검토 요청 및 대응",
+    description: "제재처분에 대해 이의신청을 통해 제재처분의 취소 또는 처분의 최소화",
     color: "bg-primary-dark"
   },
   {
     icon: Gavel,
     title: "소송대리",
-    subtitle: "취소소송",
-    description: "집행정지",
+    subtitle: "집행정지 및 취소소송",
+    description: "선제적으로 집행정지 신청을 하고 제재처분 취소의 소송을 대리",
     color: "bg-accent"
   },
   {
     icon: UserCheck,
     title: "사후관리",
-    subtitle: "권익 보호",
-    description: "지속 지원",
+    subtitle: "지속적 권익 보호",
+    description: "재처분이 이루어지는 경우등에 대한 자문 및 지속 지원",
     color: "bg-dark"
   }
 ]

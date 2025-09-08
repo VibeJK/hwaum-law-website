@@ -34,7 +34,7 @@ export default function HeroSection() {
             <div className="w-32 h-1 bg-accent mx-auto mb-6 shadow-lg"></div>
             
             <p className="text-xl md:text-2xl font-light mb-10 text-white drop-shadow-2xl max-w-3xl mx-auto" style={{textShadow: '2px 2px 4px rgba(0,0,0,0.8), -1px -1px 2px rgba(0,0,0,0.8), 1px -1px 2px rgba(0,0,0,0.8), -1px 1px 2px rgba(0,0,0,0.8)'}}>
-              전문성과 신뢰로 연구자의 권익을 보호합니다
+              법률사무소 화음이 전문성과 신뢰로 연구자의 권익을 보호합니다
             </p>
             
             <div className="flex justify-center">

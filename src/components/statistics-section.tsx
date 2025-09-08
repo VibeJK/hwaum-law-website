@@ -10,8 +10,8 @@ const stats = [
   },
   {
     icon: Users,
-    number: "500+", 
-    title: "고객수",
+    number: "100+", 
+    title: "누적고객수",
     description: "풍부한 경험"
   },
   {

@@ -6,9 +6,9 @@ const penaltyTypes = [
     icon: XCircle,
     title: "참여제한",
     items: [
-      "국가연구개발사업 참여금지",
-      "최대 10년 이내 제한", 
-      "모든 국가R&D 사업 배제"
+      "국가연구개발사업 참여금지 ",
+      "최대 10년 이내의 참여제한", 
+      "기존 및 신규의 모든 국가 R&D 사업에서 배제"
     ],
     color: "bg-accent"
   },
@@ -17,7 +17,7 @@ const penaltyTypes = [
     title: "제재부가금",
     items: [
       "연구개발비 부정사용 제재",
-      "기지급 연구개발비의 배수",
+      "부정사용 정도에 따라 기지급 연구개발비의 배수 부과",
       "국세 강제징수 가능"
     ],
     color: "bg-primary-dark"

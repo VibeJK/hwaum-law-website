@@ -38,13 +38,6 @@ export default function ContactSection() {
                   <span className="text-dark">평일 09:00-18:00</span>
                 </div>
                 
-                <div className="flex items-center space-x-3">
-                  <div className="w-8 h-8 bg-accent/10 rounded-full flex items-center justify-center">
-                    <AlertCircle className="w-5 h-5 text-accent" />
-                  </div>
-                  <span className="text-dark">긴급시 24시간</span>
-                </div>
-                
                 <Button className="w-full bg-primary hover:bg-primary-dark text-white font-semibold py-3 transition-all duration-300 hover:scale-105">
                   전화상담 신청
                 </Button>
@@ -62,13 +55,6 @@ export default function ContactSection() {
                 </CardTitle>
               </CardHeader>
               <CardContent className="p-8 space-y-6">
-                <div className="flex items-center space-x-3">
-                  <div className="w-8 h-8 bg-accent/10 rounded-full flex items-center justify-center">
-                    <MessageCircle className="w-5 h-5 text-accent" />
-                  </div>
-                  <span className="text-dark">카카오톡 상담</span>
-                </div>
-                
                 <div className="flex items-center space-x-3">
                   <div className="w-8 h-8 bg-primary/10 rounded-full flex items-center justify-center">
                     <Mail className="w-5 h-5 text-primary" />
