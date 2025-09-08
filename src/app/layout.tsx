@@ -18,6 +18,14 @@ export const metadata: Metadata = {
     template: "%s | 화음 법무법인"
   },
   description: "국가연구개발사업 제재처분 분쟁 전문 법무법인 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다. 이의신청, 소송대리, 집행정지까지 원스톱 서비스 제공.",
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico', sizes: '32x32' },
+    ],
+    shortcut: '/favicon.ico',
+    apple: '/favicon.svg',
+  },
   keywords: [
     "국가연구개발사업",
     "제재처분",
@@ -59,9 +67,9 @@ export const metadata: Metadata = {
     description: '국가연구개발사업 제재처분 분쟁 전문 법무법인 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다.',
     images: [
       {
-        url: '/og-image.jpg',
+        url: 'https://hwaum-law-website.vercel.app/og-image.jpg',
         width: 1200,
-        height: 630,
+        height: 1200,
         alt: '화음 법무법인 - 국가연구개발사업 제재처분 분쟁 전담센터',
       },
     ],
@@ -70,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: '화음 법무법인 | 국가연구개발사업 제재처분 분쟁 전담센터',
     description: '국가연구개발사업 제재처분 분쟁 전문 법무법인 화음. 10년+ 경험의 전문 변호사가 연구자의 권익을 보호합니다.',
-    images: ['/og-image.jpg'],
+    images: ['https://hwaum-law-website.vercel.app/og-image.jpg'],
   },
   verification: {
     google: 'google-site-verification-code',
