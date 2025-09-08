@@ -1,3 +1,4 @@
+import Header from "@/components/header"
 import HeroSection from "@/components/hero-section"
 import ServiceOverview from "@/components/service-overview"
 import ExpertiseSection from "@/components/expertise-section"
@@ -9,15 +10,18 @@ import StructuredData from "@/components/structured-data"
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <>
       <StructuredData />
-      <HeroSection />
-      <ServiceOverview />
-      <ExpertiseSection />
-      <PenaltyTypes />
-      <ProcessFlowchart />
-      <StatisticsSection />
-      <ContactSection />
-    </main>
+      <Header />
+      <main className="min-h-screen">
+        <HeroSection />
+        <ServiceOverview />
+        <ExpertiseSection />
+        <PenaltyTypes />
+        <ProcessFlowchart />
+        <StatisticsSection />
+        <ContactSection />
+      </main>
+    </>
   )
 }
